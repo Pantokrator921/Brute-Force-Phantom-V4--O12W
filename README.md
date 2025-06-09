@@ -1,3 +1,4 @@
+![phantomV4](https://github.com/user-attachments/assets/322ed35b-744b-4a27-aa0b-71b655d39e97)
 # Phantom Bot - Random Seed Phrase Generator & Checker
 
 This script attempts to find an active Phantom Wallet through pure chance. It continuously generates valid 12-word seed phrases, imports them into Phantom, and checks if they have a balance.
